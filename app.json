@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "aras9999.github.io",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
